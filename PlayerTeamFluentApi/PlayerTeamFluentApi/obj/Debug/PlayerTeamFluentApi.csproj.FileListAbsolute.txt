@@ -1,0 +1,16 @@
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\PlayerTeamFluentApi.exe.config
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\PlayerTeamFluentApi.exe
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\PlayerTeamFluentApi.pdb
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\EntityFramework.dll
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\EntityFramework.xml
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.csprojAssemblyReference.cache
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.csproj.CoreCompileInputs.cache
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.csproj.CopyComplete
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.exe
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.pdb
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.Migrations.first.resources
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.csproj.GenerateResource.cache
+C:\Users\ТажибекА\source\repos\PlayerTeamFluentApi\PlayerTeamFluentApi\obj\Debug\PlayerTeamFluentApi.Migrations.second.resources
